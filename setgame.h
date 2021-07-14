@@ -1,0 +1,12 @@
+void printmap();
+void SetColor(int color = 7);
+void printchar(char c, int n, int newline);
+void MoveConsole(int x, int y);
+void Welcome();
+void PrintChooseCharacter();
+void Erase(int x, int y, int Size);
+void printselect (int number);
+void verse (int number);
+int Doevent1(int property);
+int Doevent2(int x);
+int Doevent3(int money);
